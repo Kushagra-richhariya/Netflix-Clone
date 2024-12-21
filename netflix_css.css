@@ -1,0 +1,283 @@
+.backimage{
+    background-image: url("background\ image.jpg");
+    background-size: cover;
+    height: 100vh;
+    color: rgba(0, 0, 0, 0.9);
+}
+.logo{
+    position: absolute;
+    top: 5vh;
+    left: 23vh;
+    background-color:black;
+}
+.lang_select{
+    position: absolute;
+    right: 28vh;
+    top: 6vh;
+}
+.button1{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    font-size: large;
+    padding: 5px 10px 5px 12px;
+    margin: 0px 14px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+    letter-spacing: 1px;
+}
+.button2{
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    padding: 7px 15px;
+    border: 2px red;
+    border-radius: 5px;
+}
+.para h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+
+}
+.content{
+    justify-content: center;
+}
+.para{
+    position: absolute;
+    top: 35vh;
+    left: 40vh;
+}
+.p1{
+    color: white;
+    position: relative;
+    left: 35vh;
+    font-size: 25px;
+    font-weight: 500;
+}
+.p2{
+    color: white;
+    position: relative;
+    left: 20vh;
+    font-size: 20px;
+}
+.forms{
+    position: relative;
+    left: 18vh;
+}
+.emaill{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    height: 5vh;
+    width: 40vh;
+    padding: 1.5vh 8vh 1.5vh 2vh;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+}
+.submitbtn{
+    background-color: red;
+    color: white;
+    font-size: 23px;
+    height: 8vh;
+    width: 190px;
+    font-weight: 520;
+    border: 2px red;
+    border-radius: 3px;
+    position: relative;
+    top: 2px;   
+}
+.line1{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.part1{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 33px;
+}
+.part1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    position: relative;
+    top: 220px;
+    left: 180px;
+}
+.part1 p{
+    position: relative;
+    top: 210px;
+    left: 180px;
+    font-size: 28px;
+    font-weight: 500;
+}
+.line2{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    bottom: 33px;
+}
+.part2{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 66px;
+}
+.part2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    position: relative;
+    top: 170px;
+    left: 815px;
+    line-height: 30px;
+}
+.part2 p{
+    position: relative;
+    top: 170px;
+    left: 815px;
+    font-size: 28px;
+    font-weight: 500;
+}
+.line3{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    bottom: 66px;
+}
+.part3{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 99px;
+}
+.part3 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    position: relative;
+    top: 220px;
+    left: 180px;
+}
+.part3 p{
+    position: relative;
+    top: 210px;
+    left: 180px;
+    font-size: 28px;
+    font-weight: 500;
+}
+.line4{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    bottom: 99px;
+}
+.part4{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 132px;
+}
+.part4 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    position: relative;
+    top: 170px;
+    left: 815px;
+    line-height: 30px;
+}
+.part4 p{
+    position: relative;
+    top: 170px;
+    left: 815px;
+    font-size: 28px;
+    font-weight: 500;
+}
+.line5{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    bottom: 132px;
+}
+.part5{
+    height:1000px;
+    width: 100%;
+    background-color: black;
+    position: relative;
+    bottom: 164.2px;
+}
+.part5 h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    position: relative;
+    top: 80px;
+    left: 480px;
+}
+.qs{
+    height: 90px;
+    width: 75%;
+    background-color:rgb(46, 46, 46);
+    margin: 10px;
+    position: relative;
+    top: 80px;
+    left: 11%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: 500;
+    align-content: center;
+    padding: 0px 0px 0px 20px;
+}
+.membership{
+    position: relative;
+    top: 100px;
+    left: 20%;
+}
+.line6{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: relative;
+    bottom: 164.2px;
+}
+.part6{
+    height:500px;
+    width: 100%;
+    background-color: black;
+    color: rgb(255, 240, 240);
+    position: relative;
+    bottom: 164.2px;
+}
+.list{
+    display: flex;
+    color: white;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.list p{
+    position: relative;
+    top: 50px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.part6 h3{
+    color: rgba(255, 255, 255, 0.7);
+    position: relative;
+    top: 50px;
+    left: 14%;
+}
